@@ -47,7 +47,7 @@ import (
 	grpc_codes "google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"github.com/containerd/otelttrpc/internal"
+	"github.com/just1not2/otelttrpc/internal"
 )
 
 type messageType attribute.KeyValue

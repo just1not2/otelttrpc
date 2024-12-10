@@ -39,8 +39,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/containerd/otelttrpc/internal"
 	"github.com/containerd/ttrpc"
+	"github.com/just1not2/otelttrpc/internal"
 	"github.com/stretchr/testify/assert"
 	sdktrace "go.opentelemetry.io/otel/sdk/trace"
 	"go.opentelemetry.io/otel/sdk/trace/tracetest"

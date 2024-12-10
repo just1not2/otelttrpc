@@ -43,7 +43,7 @@ import (
 
 const (
 	// instrumentationName is the name of this instrumentation package.
-	instrumentationName = "github.com/containerd/otelttrpc"
+	instrumentationName = "github.com/just1not2/otelttrpc"
 
 	// TTRPCStatusCodeKey is convention for numeric status code of a ttRPC request.
 	TTRPCStatusCodeKey = attribute.Key("rpc.ttrpc.status_code")
